@@ -1,0 +1,14 @@
+{
+  "name": "kovcheg",
+  "description": "Плагины курса AI-Ковчег",
+  "owner": {
+    "name": "Konstantin Karpushin"
+  },
+  "plugins": [
+    {
+      "name": "marketing",
+      "source": "./plugins/marketing",
+      "description": "Маркетинг: ДНК клиента, оффер по Хормози, лестница Ханта, карта аудитории с портретами"
+    }
+  ]
+}
